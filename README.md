@@ -6,25 +6,7 @@ Manager for ProtonGE Installations
 
 **Installation**
 
-1. Download **UpdateProton.sh**
-2. Open a terminal and run **chmod +x UpdateProton.sh**
+1. Download **ProtonGE-Manager.sh**
+2. Open a terminal and run **chmod +x ProtonGE-Manager.sh**
 
-
-**Commands**
-
-**./UpdateProton.sh version**
-
-*Returns the currently installed version of ProtonGE.*
-
-**./UpdateProton.sh latest**
-
-*Returns the latest version of ProtonGE available online.*
-
-**./UpdateProton.sh delete**
-
-*Deletes all ProtonGE files*
-
-**./UpdateProton.sh update**
-
-*Checks if the current version of proton matches the latest.*
-*If not, this will remove the current version and download the latest.*
+Run the script, the menu will guide you through usage.
