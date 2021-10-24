@@ -1,4 +1,4 @@
-# proton-manager
+# Proton GE Manager
 Manager for ProtonGE Installations
 
 *This script maintains only one version for simplicity.*
